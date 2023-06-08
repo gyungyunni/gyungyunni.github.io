@@ -57,7 +57,8 @@ descriptions:
   - cat: jekyll
     desc: "Posts describing Jekyll setup techniques."
 
-  - cat: portfolio
+  - cat: Portfolio
+    desc: "MK's portfolio"
 
 
 # Social icons and sharing options
