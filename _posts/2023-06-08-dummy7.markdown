@@ -2,9 +2,7 @@
 layout: post
 title:  "My First Posting"
 date:   2023-06-08 10:11:52
-author: KIM MIN GYUN
-categories: Dummy
-tags: mutsa
+author: KIM MIN-GYUN
 ---
 
 저의 첫 깃헙 블로그 포스팅입니다.
