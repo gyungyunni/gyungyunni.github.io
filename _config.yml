@@ -59,6 +59,8 @@ descriptions:
 
   - cat: dummy
     desc: "Just some placeholder posts, lorem ipsum and the rest."
+    published: true
+
 
 # Social icons and sharing options
 #
@@ -95,7 +97,7 @@ social:
   - name: Tistory
     icon: tistory
     username: mingyun
-    url: "https://gyun-gyunni.tistory.com/""
+    url: "https://gyun-gyunni.tistory.com/"
     desc: Follow me on Tistory
     share: false
     
@@ -115,3 +117,5 @@ protocols:
     os_repo: "https://github.com/bencentra/centrarium.com"
     os_rcs_type: "git"
     os_src: "git@github.com:bencentra/centrarium.com.git"
+
+futrue: true
