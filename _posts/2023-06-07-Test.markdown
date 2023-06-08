@@ -3,7 +3,7 @@ layout: post
 title:  "My first posting"
 date: 2023-06-07
 author: KIM MINGYUN
-categories: portfolio
+categories: Portfolio
 tags: mutsa
 ---
 
